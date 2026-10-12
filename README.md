@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋<br>I'm Miguel Silva!</h1> <br> <h1 align="center">I'm Web Developer and Designer UI/UX.</h1>
+<h1 align="center">Hey 👋<br>I'm Miguel Silva!</h1> <br> <h1 align="center">I'm Full-Stack Developer and Designer UI/UX.</h1>
 
 
 ###
